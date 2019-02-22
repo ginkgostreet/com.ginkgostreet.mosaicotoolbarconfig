@@ -48,6 +48,8 @@ function mosaicotoolbarconfig_civicrm_postProcess($formName, &$form) {
 /**
  * implements hook_civicrm_mosaicoConfig()
  *
+ * @see https://github.com/veda-consulting/uk.co.vedaconsulting.mosaico/pull/272/files
+ *
  * @param array $config
  * @return void
  */
