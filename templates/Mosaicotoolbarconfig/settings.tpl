@@ -17,9 +17,9 @@
 </table>
 
 <script type="text/javascript">
-  var table = jQuery('.crm-mosaico-form-block .form-layout');
-  jQuery('.crm-mosaico-form-block-mosaico_plugins').appendTo(table);
-  jQuery('#mosaico-plugins').val(CRM.vars.mosaico.plugins);
-  jQuery('.crm-mosaico-form-block-mosaico_toolbar').appendTo(table);
-  jQuery('#mosaico-toolbar').val(CRM.vars.mosaico.toolbar);
+  var table = CRM.$('.crm-mosaico-form-block .form-layout');
+  CRM.$('.crm-mosaico-form-block-mosaico_plugins').appendTo(table);
+  CRM.$('#mosaico-plugins').val(CRM.vars.mosaico.plugins);
+  CRM.$('.crm-mosaico-form-block-mosaico_toolbar').appendTo(table);
+  CRM.$('#mosaico-toolbar').val(CRM.vars.mosaico.toolbar);
 </script>
