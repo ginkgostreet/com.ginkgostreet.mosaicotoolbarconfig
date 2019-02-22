@@ -1,4 +1,4 @@
-Package: com.ginkgostreet.mosaciotoolbarconfig
+Package: com.ginkgostreet.mosaicotoolbarconfig
 Copyright (C) 2019, David Reedy Jr <davidrjr.konadave@gmail.com>
 Licensed under the GNU Affero Public License 3.0 (below).
 

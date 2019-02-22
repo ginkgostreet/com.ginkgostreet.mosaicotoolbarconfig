@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<extension key="com.ginkgostreet.mosaciotoolbarconfig" type="module">
-  <file>mosaciotoolbarconfig</file>
+<extension key="com.ginkgostreet.mosaicotoolbarconfig" type="module">
+  <file>mosaicotoolbarconfig</file>
   <name>FIXME</name>
   <description>FIXME</description>
   <license>AGPL-3.0</license>
@@ -22,6 +22,6 @@
   </compatibility>
   <comments>This is a new, undeveloped module</comments>
   <civix>
-    <namespace>CRM/Mosaciotoolbarconfig</namespace>
+    <namespace>CRM/mosaicotoolbarconfig</namespace>
   </civix>
 </extension>
