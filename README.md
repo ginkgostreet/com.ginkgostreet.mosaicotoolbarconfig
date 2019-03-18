@@ -18,10 +18,10 @@ This extension has not yet been published for in-app installation. [General exte
 The out-of-the-box Mosaico settings for what plugins and buttons are available in the `tinymceConfigFull` configuration:
 
 ```
-      'tinymceConfigFull' => array(
-        'plugins' => array('link hr paste lists textcolor code civicrmtoken'),
-        'toolbar1' => 'bold italic forecolor backcolor hr styleselect removeformat | civicrmtoken | link unlink | pastetext code',
-      ),
+'tinymceConfigFull' => array(
+  'plugins' => array('link hr paste lists textcolor code civicrmtoken'),
+  'toolbar1' => 'bold italic forecolor backcolor hr styleselect removeformat | civicrmtoken | link unlink | pastetext code',
+),
 ```
 
 https://github.com/veda-consulting/uk.co.vedaconsulting.mosaico/blob/2.x/CRM/Mosaico/Page/Editor.php#L96
