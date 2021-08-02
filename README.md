@@ -1,5 +1,7 @@
 # Mosaico Toolbar Configurator
 
+This extension has been superceded. It's functionality was incorporated into https://lab.civicrm.org/extensions/mosaicoextras, which is actively maintained.
+
 GUI Toolbar Configurator for Mosaico in CiviCRM. This tool allows an admin user to edit the settings of the `tinymceConfigFull` i.e. Mosaico Full Toolbar configuration by entering a list of plugins and buttons into text fields on the Mosaico settings screen. This extension does not allow changes to be made to the `tinymceConfig` configuration, which is the standard/base configuration used for headings, etc.
 
 ## Installation
